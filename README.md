@@ -1,6 +1,6 @@
 # AffectPT-br
 
-We present the development of AffectPT-br, a new Brazilian Portuguese affective dictionary based on the LIWC 2015 English dictionary. LIWC dictionaries have been widely used in psychology and linguistics. 
+We present the development of AffectPT-br, a new Brazilian Portuguese affective dictionary based on the LIWC 2015 English dictionary. LIWC dictionaries have been widely used in psychology and linguistics and there are versions of the dictionary in many languages, including  Brazilian Portuguese (LIWC2007pt). 
 We produced two text classification experiments with real datasets from social networks in order to compare AffectPT-br with LIWC2007pt.  Results indicate AffectPT-br outperforms LIWC2007pt in the classification task with all classification algorithms we adopted.
 
 When using this dictionary for academic purposes, please cite our article:
