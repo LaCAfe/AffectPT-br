@@ -1,0 +1,1150 @@
+%
+
+30	affect (Affect)
+31	posemo (Positive Emotions)
+32	negemo (Negative Emotions)
+33	anx (Anx)
+34	anger (Anger)
+35	sad (Sad)
+
+%
+(:	30	31	
+):	30	32	
+:(	30	32	
+:)	30	31	
+abaix*	30	32	35
+abandon*	30	32	35
+abatid*	30	32	35
+abenço*	30	31	
+aberração	30	32	
+abertura	30	31	
+aborrec*	30	32	
+abraço	30	31	
+abraços	30	31	
+abus*	30	32	34
+acalent*	30	31	
+acalm*	30	31	
+acanhad*	30	32	33
+aceita	30	31	
+aceitação	30	31	
+aceitam	30	31	
+aceitando	30	31	
+aceito	30	31	
+acirr*	30	32	34
+acolhid*	30	31	
+acordad*	30	31	
+acordo	30	31	
+acusa*	30	32	34
+admir*	30	31	
+adoec*	30	32	
+adoeç*	30	32	
+adora*	30	31	
+adorável	30	31	
+adoro*	30	31	
+advers*	30	32	
+afável	30	31	
+afeição*	30	31	
+afeiçoad*	30	31	
+aflição	30	32	33
+aflig*	30	32	35
+aflij*	30	32	35
+aflit*	30	32	
+afortunad*	30	31	
+agitad*	30	32	34
+agonia	30	32	35
+agoniz*	30	32	35
+agraciad*	30	31	
+agradabilidade	30	31	
+agradar	30	31	
+agradável	30	31	
+agradavelmente	30	31	
+agradece*	30	31	
+agradecid*	30	31	
+agrava*	30	32	
+agred*	30	32	34
+agressão	30	32	34
+agressiv*	30	32	34
+agressor*	30	32	34
+agrid*	30	32	34
+aguçad*	30	31	
+ai	30	32	35
+aiai	30	32	35
+ajuda	30	31	
+ajudando	30	31	
+ajudante	30	31	
+alarm*	30	32	33
+alegra*	30	31	
+alegre	30	31	
+alegria	30	31	
+alivi*	30	31	
+alma	30	31	
+amad*	30	31	
+amaldiço*	30	32	
+amarg*	30	32	34
+ameaça*	30	32	33
+amedronta*	30	32	33
+amofin*	30	32	
+amor	30	31	
+amoros*	30	31	
+angusti*	30	32	
+angústia	30	32	
+anima	30	31	
+animad*	30	31	
+animam*	30	31	
+animar	30	31	
+animo	30	31	
+ânimo	30	31	
+aniquil*	30	32	34
+anormal*	30	32	
+ansiar*	30	32	35
+ansiedade	30	32	33
+ansios*	30	32	33
+antagonista*	30	32	34
+antipátic*	30	32	
+apalermad*	30	32	34
+apátic*	30	32	35
+apavor*	30	32	33
+aperfeiçoad*	30	31	
+aperfeiçoando	30	31	
+apetitos*	30	31	
+apodrecimento	30	32	
+apoiado*	30	31	
+apoiando	30	31	
+apologia	30	32	
+apreci*	30	31	
+apreensiv*	30	32	33
+aprov*	30	31	
+aquecid*	30	31	
+aquecimento	30	31	
+argh	30	32	34
+arma*	30	32	34
+arrepend*	30	32	35
+arriscad*	30	32	33
+arrogan*	30	32	
+arrogân*	30	32	
+arrumado	30	31	
+asno	30	32	34
+ásper*	30	32	
+assalt*	30	32	34
+assassin*	30	32	34
+asseado	30	31	
+assedi*	30	32	34
+assédio	30	32	34
+assegur*	30	31	
+assol*	30	32	34
+assombr*	30	32	
+assust*	30	32	33
+astut*	30	31	
+atac*	30	32	34
+ataque*	30	32	34
+ataza*	30	32	34
+aterrador*	30	32	
+aterroriza*	30	32	33
+ativamente	30	31	
+ativo	30	31	
+atração	30	31	
+atraente	30	31	
+atrai	30	31	
+atraíd*	30	31	
+atraindo	30	31	
+atrair	30	31	
+atroz	30	32	
+aturdid*	30	32	
+avarent*	30	32	34
+aventur*	30	31	
+aversão	30	32	
+aversi*	30	32	33
+ávid*	30	31	
+avidamente	30	31	
+avidez	30	31	
+avilt*	30	32	
+azarad*	30	32	
+azucrin*	30	32	34
+babaca	30	32	34
+bagunc*	30	32	
+bagunç*	30	32	
+baix*	30	32	35
+banal	30	32	
+banquete	30	31	
+bastardo	30	32	34
+batalha	30	32	34
+beij*	30	31	
+beleza	30	31	
+bem	30	31	
+bem-estar	30	31	
+benéfic*	30	31	
+beneficência	30	31	
+benefici*	30	31	
+benevolen*	30	31	
+benevolência	30	31	
+berra*	30	32	34
+berreiro*	30	32	34
+berro*	30	32	34
+birra*	30	32	34
+boa	30	31	
+boas	30	31	
+bobalh*	30	32	
+boceta	30	32	34
+bom	30	31	
+bondade	30	31	
+bondosamente	30	31	
+bonita	30	31	
+bonito	30	31	
+bons	30	31	
+bônus	30	31	
+bravo	30	31	
+bravos	30	31	
+bravura	30	31	
+briga*	30	32	33
+brigado	30	31	
+brigadu	30	31	
+brilhante	30	31	
+brilhantemente	30	31	
+brilho	30	31	
+brincadeira	30	31	
+brincalh*	30	31	
+brincando	30	31	
+brincar	30	31	
+bródio	30	31	
+brut*	30	32	
+brutal*	30	32	34
+bruxa*	30	32	
+burl*	30	32	34
+burrald*	30	32	34
+burro	30	32	34
+cabisbaix*	30	32	35
+caço*	30	32	34
+caído	30	32	35
+calma	30	31	
+calmante	30	31	
+calmo	30	31	
+caloros*	30	31	
+campeã*	30	31	
+cansad*	30	32	
+capenga	30	32	35
+carente	30	32	
+careta	30	32	
+carid*	30	31	
+carinhosamente	30	31	
+certo	30	31	
+cetic*	30	32	34
+cétic*	30	32	34
+céu	30	31	
+charm*	30	31	
+chatead*	30	32	33
+chatear	30	32	34
+chato	30	32	
+chinfrim	30	32	35
+choca*	30	32	33
+choque*	30	32	
+choraming*	30	32	35
+chorar*	30	32	35
+choro*	30	32	35
+cínic*	30	32	34
+ciument*	30	32	34
+ciúmes	30	32	34
+claudicação	30	32	35
+cômic*	30	31	
+compaixão	30	31	
+compartilh*	30	31	
+complica*	30	32	34
+concord*	30	31	
+condena*	30	32	
+confiança	30	31	
+confianças	30	31	
+confiando	30	31	
+confiante	30	31	
+confiar	30	31	
+confiav*	30	31	
+confiável	30	31	
+confort*	30	31	
+confronta*	30	32	34
+confund*	30	32	33
+confus*	30	32	33
+constrangi*	30	32	33
+contentamento	30	31	
+contente	30	31	
+contradi*	30	32	34
+convict*	30	31	
+corajos*	30	31	
+corta*	30	32	
+credit*	30	31	
+crédito	30	31	
+criação	30	31	
+criações	30	31	
+criam	30	31	
+criar	30	31	
+criativ*	30	31	
+critic*	30	32	34
+crític*	30	32	34
+cru	30	32	
+cruel	30	32	34
+crueldade	30	32	34
+cruelmente	30	32	34
+crush	30	31	
+cuid*	30	31	
+culpa	30	32	33
+culpad*	30	32	33
+cura	30	31	
+curad*	30	31	
+curand*	30	31	
+curo	30	31	
+dane-se	30	32	34
+danifi*	30	32	
+débil	30	32	
+debilit*	30	32	
+deboch*	30	32	34
+decadência	30	32	
+decente	30	31	
+decepcionante*	30	32	
+declínio	30	32	
+dedicado	30	31	
+defeit*	30	32	
+defensiv*	30	32	
+defensor*	30	32	
+defesa	30	32	
+definitivamente	30	31	
+degrad*	30	32	
+deleitável	30	31	
+delicad*	30	31	
+delícia	30	31	
+delicios*	30	31	
+delito*	30	32	
+denigr*	30	32	34
+deplor*	30	32	35
+depress*	30	32	35
+deprim*	30	32	35
+derrot*	30	32	
+desacordo	30	32	
+desacoroçoad*	30	32	35
+desagradável	30	32	
+desalentad*	30	32	35
+desalento	30	32	
+desalmad*	30	32	34
+desampar*	30	32	35
+desanima*	30	32	35
+desânimo	30	32	35
+desapont*	30	32	35
+desarranj*	30	32	33
+desassosseg*	30	32	33
+desastr*	30	32	
+desbrav*	30	31	
+desconfort*	30	32	33
+descontent*	30	32	35
+descontraíd*	30	31	
+descontrol*	30	32	33
+descrédito	30	32	
+descuid*	30	32	
+desculpa	30	32	35
+desdém	30	32	34
+desdenh*	30	32	34
+desditos*	30	32	
+desej*	30	31	
+desempolgado	30	32	35
+desencoraj*	30	32	35
+desesperad*	30	32	33
+desesperan*	30	32	35
+desespero	30	32	35
+desestimul*	30	32	35
+desfrut*	30	31	
+desgastad*	30	32	
+desgost*	30	32	
+desgraça	30	32	
+desgraçad*	30	32	34
+desilud*	30	32	35
+desilusão	30	32	35
+desinteressa*	30	32	35
+deslumbramento	30	31	
+deslumbrante	30	31	
+desonest*	30	32	
+desonr*	30	32	
+despedid*	30	32	
+despeit*	30	32	34
+despej*	30	32	
+despoj*	30	32	35
+despreocupad*	30	31	
+desprez*	30	32	34
+desprotegid*	30	32	
+destemido	30	31	
+destru*	30	32	34
+desvanta*	30	32	
+desvent*	30	32	35
+determina*	30	31	
+devast*	30	32	35
+devot*	30	31	
+diabo	30	32	
+diabólic*	30	32	
+difícil	30	32	
+dificuldade	30	32	
+dificuldades	30	32	
+digna	30	31	
+dignidade	30	31	
+dignifica*	30	31	
+digno	30	31	
+discord*	30	32	
+discussão	30	32	34
+distraíd*	30	32	33
+diversão	30	31	
+divertid*	30	31	
+divertimento	30	31	
+divertir	30	31	
+divina	30	31	
+divirt*	30	31	
+dó	30	32	35
+doador*	30	31	
+doando	30	31	
+doce	30	31	
+docemente	30	31	
+dócil	30	31	
+docinho	30	31	
+doçura	30	31	
+doença*	30	32	
+doendo	30	32	
+doente*	30	32	
+dolor*	30	32	
+domin*	30	32	34
+dor	30	32	
+dores	30	32	
+dormência	30	32	
+dorment*	30	32	
+duvid*	30	32	33
+dúvida	30	32	33
+eba	30	31	
+eca	30	32	
+educad*	30	31	
+egoís*	30	32	
+egotismo	30	32	
+elegan*	30	31	
+elogi*	30	31	
+embarac*	30	32	33
+embaraç*	30	32	33
+embelezar	30	31	
+emocionante	30	31	
+emotiv*	30	32	
+encantador*	30	31	
+encoleriz*	30	32	34
+encoraj*	30	31	
+encrenca	30	32	
+energ*	30	31	
+enfraquec*	30	32	
+enfraqueç*	30	32	
+enfraquecid*	30	32	
+enfurecid*	30	32	34
+engaj*	30	31	
+engana*	30	32	
+engano*	30	32	
+engraçad*	30	31	
+enraive*	30	32	34
+ensolarada*	30	31	
+ensolarado*	30	31	
+entorpec*	30	32	
+entrete*	30	31	
+entusiasm*	30	31	
+envenen*	30	32	34
+envergonha*	30	32	33
+errad*	30	32	
+erro*	30	32	
+errône*	30	32	
+erroneamente	30	32	
+escarnec*	30	32	34
+esmagad*	30	32	35
+esmerado	30	31	
+esmorec*	30	32	35
+esnob*	30	32	34
+espancad*	30	32	34
+especial	30	31	
+esperança	30	31	
+esperanças	30	31	
+esperanços*	30	31	
+esperou	30	31	
+esperto	30	31	
+espetacular	30	31	
+esplêndid*	30	31	
+esplendidamente	30	31	
+esplendor	30	31	
+esplendoroso	30	31	
+esquisit*	30	32	
+estranh*	30	32	
+estress*	30	32	33
+estupid*	30	32	34
+estúpid*	30	32	34
+estupr*	30	32	34
+esvazi*	30	32	35
+evita*	30	32	33
+exasper*	30	32	34
+exaspera*	30	32	33
+exaust*	30	32	
+excelência	30	31	
+excelente	30	31	
+excelentemente	30	31	
+excepcional	30	31	
+excit*	30	31	
+excrucia*	30	32	
+execrável	30	32	34
+êxito	30	31	
+êxtase	30	31	
+extasiante	30	31	
+extrovertid*	30	31	
+fabulosamente	30	31	
+fabulosidade	30	31	
+fabuloso	30	31	
+fácil	30	31	
+facilidade	30	31	
+facilit*	30	31	
+facilmente	30	31	
+falacios*	30	32	
+falh*	30	32	35
+fals*	30	32	
+falta	30	32	
+faltand*	30	32	
+fantasia	30	31	
+fantastic*	30	31	
+fantástic*	30	31	
+fardo	30	32	
+farra	30	31	
+fatal*	30	32	
+fatig*	30	32	35
+favor	30	31	
+favorecendo	30	31	
+favores	30	31	
+favorita	30	31	
+favorito	30	31	
+fé	30	31	
+feder	30	32	
+fedia	30	32	
+fedid*	30	32	
+fedor*	30	32	
+feia*	30	32	34
+feio*	30	32	34
+felicidade	30	31	
+feliz	30	31	
+felizmente	30	31	
+ferid*	30	32	35
+feroc*	30	32	34
+festa	30	31	
+festej*	30	31	
+festim	30	31	
+festiv*	30	31	
+fétid*	30	32	
+fidedignidade	30	31	
+fiel	30	31	
+filar	30	32	
+fingid*	30	32	
+firme	30	31	
+fixe	30	31	
+flerta*	30	31	
+flerte	30	31	
+fobia*	30	32	33
+fóbic*	30	32	33
+fod*	30	32	34
+fofoc*	30	32	
+folgar	30	31	
+folgazão	30	31	
+folguedo	30	31	
+folia	30	31	
+força	30	31	
+forçad*	30	32	34
+formidável	30	31	
+forte	30	31	
+fortemente	30	31	
+fraca	30	32	
+fracass*	30	32	35
+fraco*	30	32	
+frágil	30	32	
+frenétic*	30	32	33
+friamente	30	32	
+frustr*	30	32	34
+fud*	30	32	34
+fuman*	30	32	34
+fumo*	30	32	34
+fúnebre	30	32	35
+funest*	30	32	35
+fúria	30	32	34
+furios*	30	32	34
+gaguei*	30	32	
+gaguej*	30	32	
+gananc*	30	32	
+ganânci*	30	32	34
+ganha*	30	31	
+ganhou	30	31	
+geek*	30	32	
+gemido*	30	32	35
+generosa*	30	31	
+generosidade	30	31	
+generoso*	30	31	
+gentil	30	31	
+gentileza	30	31	
+gentilmente	30	31	
+glamoros*	30	31	
+glamouros*	30	31	
+glória	30	31	
+glorificação	30	31	
+gost*	30	31	
+graça	30	31	
+graças	30	31	
+gracinha	30	31	
+gracios*	30	31	
+grande	30	31	
+grandeza	30	31	
+grandioso	30	31	
+grata	30	31	
+grátis	30	31	
+grato	30	31	
+grave*	30	32	
+gravidade	30	32	
+grit*	30	32	
+grossa*	30	32	
+grosseir*	30	32	
+grosseria	30	32	
+grosso*	30	32	
+grotesc*	30	32	
+grr*	30	32	34
+guerra*	30	32	34
+guerrea*	30	32	34
+ha	30	31	
+hah	30	31	
+haha*	30	31	
+hater*	30	32	34
+heh*	30	31	
+herói*	30	31	
+heroico	30	31	
+heroína	30	31	
+heroísmo	30	31	
+hihi	30	31	
+hilariante	30	31	
+hilaridade	30	31	
+hilário	30	31	
+hoho*	30	31	
+honest*	30	31	
+honra*	30	31	
+hórrid*	30	32	33
+horríve*	30	32	33
+horrivel*	30	32	33
+horror	30	32	33
+horroriz*	30	32	33
+horroros*	30	32	
+hostil*	30	32	34
+huehue*	30	31	
+humilde	30	32	35
+humilh*	30	32	33
+humor	30	31	
+ideal	30	31	
+idiot*	30	32	34
+ignor*	30	32	
+iludid*	30	32	34
+iluminad*	30	31	
+ilusóri*	30	32	
+imbeci*	30	32	34
+imoral*	30	32	
+impaci*	30	32	33
+impecável	30	31	
+impecavel*	30	31	
+imperfeit*	30	32	
+impessoal	30	32	
+impetuos*	30	32	34
+imponente	30	31	
+importância	30	31	
+importante	30	31	
+importun*	30	32	
+impoten*	30	32	
+impotên*	30	32	
+impressiona*	30	31	
+impressionante	30	31	
+imprest*	30	32	35
+impretáve*	30	32	
+inaceitável	30	32	
+inadequa*	30	32	33
+inamistos*	30	32	
+incentiv*	30	31	
+incert*	30	32	33
+incomod*	30	32	34
+incômodo	30	32	34
+incompet*	30	32	
+incomplet*	30	32	
+inconsol*	30	32	35
+inconstante	30	32	
+incrível	30	31	
+incrivelmente	30	31	
+indecis*	30	32	33
+indefes*	30	32	
+indelicad*	30	32	
+indesejável	30	32	
+indiferen*	30	32	35
+ineficaz*	30	32	
+infeliz*	30	32	
+inferior*	30	32	35
+inferior*	30	32	35
+infern*	30	32	34
+infortúni*	30	32	35
+infrutífer*	30	32	35
+ingrat*	30	32	
+inib*	30	32	33
+inimig*	30	32	34
+inimiz*	30	32	34
+iniquidad*	30	32	
+injur*	30	32	34
+injúr*	30	32	34
+injust*	30	32	
+inocente	30	31	
+inquiet*	30	32	33
+insatisfação	30	32	
+insegur*	30	32	33
+insensat*	30	32	
+insensível	30	32	34
+insignificant*	30	32	34
+insincer*	30	32	
+insist*	30	32	33
+inspirar	30	31	
+instabili*	30	32	33
+instável	30	32	33
+insult*	30	32	34
+intelect*	30	31	
+inteligência	30	31	
+inteligente	30	31	
+interessad*	30	31	
+interessante	30	31	
+interesse	30	31	
+interesses	30	31	
+interromp*	30	32	34
+intimidação	30	32	34
+intranquil*	30	32	33
+intromet*	30	32	34
+inútil	30	32	35
+inutilidade	30	32	35
+inutilmente	30	32	35
+invej*	30	32	34
+ínvid*	30	32	34
+irracional*	30	32	33
+irresolu*	30	32	33
+irrit*	30	32	34
+isolad*	30	32	35
+isolamento	30	32	35
+joga*	30	31	
+jogo*	30	31	
+jovial	30	31	
+júbilo	30	31	
+justo	30	31	
+kkkk*	30	31	
+lacrimej*	30	32	35
+ladra	31	33	
+ladrão	30	32	
+ladrões	30	32	
+lágrima*	30	32	35
+lambão	30	32	
+lament*	30	32	35
+lamuri*	30	32	35
+lamúri*	30	32	35
+lastim*	30	32	35
+lástima	30	32	35
+leal	30	31	
+lealdade	30	31	
+legal	30	31	
+legítimo	30	31	
+lezad*	30	32	34
+libert*	30	31	
+limpo	30	31	
+linda	30	31	
+lindo	30	31	
+lisonjea*	30	31	
+livre	30	31	
+lixo	30	32	34
+lôbreg*	30	32	35
+louc*	30	32	
+lucro	30	31	
+ludibri*	30	32	
+lúgubre	30	32	35
+luta*	30	32	34
+luto	30	32	35
+lutou	30	32	34
+lutuos*	30	32	35
+macabr*	30	32	33
+maçante	30	32	35
+magnífic*	30	31	
+magnificente	30	31	
+magoa*	30	32	35
+mágoa*	30	32	35
+maior	30	31	
+mal	30	32	
+maldição	30	32	
+maldit*	30	32	34
+malign*	30	32	34
+maluc*	30	32	34
+maluqui*	30	32	34
+malvad*	30	32	34
+maneiro	30	31	
+maníac*	30	32	34
+mara	30	31	
+maravilhosamente	30	31	
+masoquis*	30	32	
+matar	30	32	34
+mau	30	32	
+medo	30	32	33
+melancoli*	30	32	35
+melhor	30	31	
+melhora*	30	31	
+melhores	30	31	
+mentindo	30	32	34
+mentir	30	32	34
+mentira*	30	32	34
+mentiros*	30	32	34
+merda	30	32	34
+meretriz	30	32	
+mérito*	30	31	
+mesquinh*	30	32	34
+miseráv*	30	32	33
+molest*	30	32	
+nause*	30	32	
+nefast*	30	32	34
+negação	30	32	
+neglig*	30	32	35
+nerd	30	32	
+nervos*	30	32	34
+neurotic*	30	32	33
+neurótic*	30	32	33
+nham*	30	31	
+nhami	30	31	
+nham-nham	30	31	
+nítid*	30	31	
+nociv*	30	32	
+nojent*	30	32	
+nostalgia	30	32	35
+oba	30	31	
+obcecad*	30	32	33
+obnóxi*	30	32	34
+obsolet*	30	32	
+obstinad*	30	32	34
+odeia*	30	32	34
+odeie	30	32	34
+odeio	30	32	34
+odia*	30	32	34
+ódio	30	32	34
+ofend*	30	32	34
+ofens*	30	32	34
+ofuscad*	30	32	
+ok	30	31	
+oponente*	30	32	34
+oportun*	30	31	
+oprimi*	30	32	33
+orgulho	30	31	
+original	30	31	
+otári*	30	32	34
+ótim*	30	31	
+otimismo	30	31	
+otimista	30	31	
+otp	30	31	
+ousad*	30	31	
+pacífic*	30	31	
+pacificamente	30	31	
+pagode	30	31	
+paixão	30	31	
+palerma	30	32	34
+pândega	30	31	
+pânico	30	32	33
+paquera	30	31	
+paqueras	30	31	
+paraíso	30	31	
+paraliz*	30	32	
+paranói*	30	32	33
+pateta	30	32	
+patétic*	30	32	35
+pateticamente	30	32	35
+patuscada	30	31	
+pavor	30	32	33
+paz	30	31	
+pecado*	30	32	
+peculiar*	30	32	
+pena	30	32	35
+penumbra	30	32	35
+penúria	30	32	
+perda	30	32	35
+perdão	30	31	
+perde	30	32	35
+perdedor*	30	32	35
+perdendo	30	32	35
+perder	30	32	35
+perdição	30	32	35
+perdid*	30	32	35
+perdoa*	30	31	
+perfeição	30	31	
+perfeit*	30	31	
+perigo	30	32	
+perigos*	30	32	
+perturb*	30	32	33
+pervers*	30	32	
+pervert*	30	32	
+pesadelo*	30	32	
+pesar	30	32	35
+pessimis*	30	32	35
+peste	30	32	34
+petrif*	30	32	33
+petulante	30	32	34
+piada	30	31	
+pior*	30	32	
+piranha	30	32	34
+pobre*	30	32	
+podre	30	32	
+popular	30	31	
+populari*	30	31	
+porcam*	30	32	
+porcaria	30	32	34
+porra	30	32	34
+positiv*	30	31	
+pqp	30	32	34
+prazer	30	31	
+precios*	30	31	
+preconceit*	30	32	34
+preguiç*	30	32	
+prejudi*	30	32	
+prejuízo	30	32	
+premia*	30	31	
+prêmio	30	31	
+preocupação	30	32	33
+preocupações	30	32	33
+preocupad*	30	32	33
+preocupante	30	32	33
+pressão	30	32	33
+prestativamente	30	31	
+presunços*	30	32	
+privação	30	32	35
+privar	30	32	35
+privilégio	30	31	
+problem*	30	32	
+proíb*	30	32	
+proibi*	30	32	
+promessa	30	31	
+promissor*	30	31	
+pronto	30	31	
+prosper*	30	31	
+prósper*	30	31	
+prostrad*	30	32	35
+protest*	30	32	34
+provoca*	30	32	34
+puni*	30	32	34
+puro	30	31	
+puta	30	32	
+quebrou	30	32	35
+querid*	30	31	
+quinhão	30	31	
+quota	30	31	
+rabugent*	30	32	34
+raiva*	30	32	34
+raivos*	30	32	34
+rancor	30	32	34
+ranços*	30	32	
+reafirma*	30	31	
+rebaix*	30	32	35
+rebeld*	30	32	34
+receos*	30	32	33
+receptiva	30	31	
+receptivo	30	31	
+reclama*	30	32	
+recompensa*	30	31	
+reconfortante	30	31	
+reduç*	30	32	35
+reduz*	30	32	35
+regozijo	30	31	
+rejeit*	30	32	35
+relaxa*	30	31	
+relutante*	30	32	33
+remors*	30	32	35
+renunci*	30	32	35
+renúnci*	30	32	35
+reprimi*	30	32	33
+repugnância	30	32	
+repugnante	30	32	34
+resolv*	30	31	
+respeit*	30	31	
+ressaca	30	32	
+ressent*	30	32	34
+ressint*	30	32	34
+retraid*	30	32	33
+retraíd*	30	32	33
+revigor*	30	31	
+rica	30	31	
+ricaço	30	31	
+rico	30	31	
+ridicul*	30	32	34
+ridícul*	30	32	34
+rigid*	30	32	33
+rígid*	30	32	33
+riqueza*	30	31	
+rir	30	31	
+risada	30	31	
+risco*	30	32	
+riso	30	31	
+rixa	30	32	34
+romanc*	30	31	
+romântic*	30	31	
+roub*	30	32	
+rs*	30	31	
+rude*	30	32	34
+ruim	30	32	
+ruína	30	32	35
+ruins	30	32	
+sabedoria	30	31	
+sábi*	30	31	
+sabiamente	30	31	
+sacud*	30	32	33
+salva	30	31	
+salvo	30	31	
+sarcasm*	30	32	34
+satisfeit*	30	31	
+saudade*	30	32	35
+saudável	30	31	
+segura	30	31	
+seguramente	30	31	
+segurança	30	31	
+seguro	30	31	
+selvage*	30	32	34
+sensat*	30	31	
+sensibilidade	30	31	
+sensível	30	31	
+sepulcral	30	32	33
+sereno	30	31	
+sexy	30	31	
+shipper	30	31	
+sincer*	30	31	
+sinistr*	30	32	33
+sobressai*	30	31	
+sobressalt*	30	32	33
+sociabilidade	30	31	
+sociável	30	31	
+sofra*	30	32	35
+sofre*	30	32	35
+sofri	30	32	35
+sofrimento*	30	32	35
+sofro*	30	32	35
+solene*	30	32	35
+solidão	30	32	35
+solidário	30	31	
+solitári*	30	32	35
+soluç*	30	32	35
+sombri*	30	32	35
+sorrir	30	31	
+sorriso	30	31	
+sorrisos	30	31	
+sorte	30	31	
+sortuda	30	31	
+sortudo	30	31	
+sorumbá*	30	32	35
+soturn*	30	32	33
+sozinh*	30	32	35
+suavemente	30	31	
+suavidade	30	31	
+sublime	30	31	
+suceder	30	31	
+sucesso	30	31	
+sucessos	30	31	
+sucumb*	30	32	35
+sufoc*	30	32	34
+suja*	30	32	
+sujo*	30	32	
+suntuoso	30	31	
+super	30	31	
+supera*	30	31	
+superior*	30	31	
+supimpa	30	31	
+suporta	30	31	
+suportado	30	31	
+suporte	30	31	
+suprema	30	31	
+surpreende*	30	31	
+surpresa	30	31	
+surpreso	30	31	
+suscetibilidade	30	32	
+suspeição	30	32	33
+suspir*	30	32	35
+susto*	30	32	33
+talento*	30	31	
+tedios*	30	32	
+teimos*	30	32	34
+temend*	30	32	33
+temeridad*	30	32	33
+temeros*	30	32	33
+temid*	30	32	33
+temperament*	30	32	
+tenebros*	30	32	35
+tensamente	30	32	33
+tensão	30	32	33
+tenso	30	32	33
+ternamente	30	31	
+ternura	30	31	
+terrível	30	32	
+terrivelmente	30	32	
+terror*	30	32	33
+tétric*	30	32	33
+tímid*	30	32	
+tolam*	30	32	
+tolo*	30	32	
+torpor	30	32	
+tortur*	30	32	34
+tragédia	30	32	35
+trágic*	30	32	35
+tragica*	30	32	35
+tranquil*	30	31	
+transgressão	30	32	
+transtor*	30	32	33
+trapaça	30	32	34
+trapace*	30	32	34
+trauma*	30	32	
+treme*	30	32	33
+tremo*	30	32	33
+trevos*	30	32	33
+triste*	30	32	35
+triunf*	30	31	
+trivial	30	32	
+truque	30	32	34
+truques	30	32	34
+túmul*	30	32	35
+tumular	30	32	33
+tumult*	30	32	33
+uau	30	31	
+ugh	30	32	
+ultraj*	30	32	
+umbros*	30	32	35
+útil	30	31	
+utilidade	30	31	
+vacil*	30	32	35
+vagabund*	30	32	
+vago	30	32	35
+vaidade	30	32	
+valente	30	31	
+válido	30	31	
+valor	30	31	
+valores	30	31	
+valorização	30	31	
+valorizad*	30	31	
+vantagem	30	31	
+vão	30	32	
+vazia*	30	32	35
+vazio*	30	32	35
+venen*	30	32	34
+verdade	30	31	
+verdadeir*	30	31	
+vergonh*	30	32	33
+vício*	30	32	34
+vicios*	30	32	34
+vigor*	30	31	
+vil	30	32	34
+vilã*	30	32	34
+vilipend*	30	32	
+vilipêndio	30	32	
+vilões	30	32	34
+vingança*	30	32	34
+violad*	30	32	34
+violar*	30	32	34
+violência	30	32	
+violent*	30	32	34
+virtude	30	31	
+virtuo*	30	31	
+vitalidade	30	31	
+vítima*	30	32	
+vitória	30	31	
+viva	30	31	
+vlw	30	31	
+vomit*	30	32	
+vômito	30	32	
+vulnerabilidad*	30	32	33
+vulneráv*	30	32	33
+zangad*	30	32	34
+zomb*	30	32	34
